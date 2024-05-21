@@ -37,7 +37,7 @@
   },
   "homepage": "https://github.com/joakin/markdown-folder-to-html#readme",
   "dependencies": {
-    "markdown-it": "^8.4.2",
+    "markdown-it": "^14.1.0",
     "markdown-it-anchor": "^5.3.0",
     "shelljs": "^0.8.4"
   },
@@ -47,9 +47,9 @@
     "@types/node": "^10.17.35",
     "@types/shelljs": "^0.8.8",
     "@types/tape": "^4.13.0",
-    "gh-pages": "^2.2.0",
+    "gh-pages": "^6.1.1",
     "prettier": "^1.19.1",
-    "tap-dot": "^2.0.0",
+    "tap-dot": "^1.0.0",
     "tape": "^4.13.3",
     "typescript": "^3.9.7"
   }
